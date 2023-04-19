@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+account_credentials.py
+vnn/
+LSTM_code.ipynb
 
 # C extensions
 *.so
