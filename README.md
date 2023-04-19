@@ -1,2 +1,2 @@
 # Neural-Network-XAUUSD
-Training Neural Network Model for trading XAUUSD
+## Neural Network Model for trading XAUUSD
