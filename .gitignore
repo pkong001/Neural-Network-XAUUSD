@@ -5,6 +5,7 @@ __pycache__/
 account_credentials.py
 vnn/
 LSTM_code.ipynb
+lsvm_short_long_simu_b.ipynb
 
 # C extensions
 *.so
