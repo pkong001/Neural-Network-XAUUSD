@@ -6,6 +6,7 @@ account_credentials.py
 vnn/
 LSTM_code.ipynb
 lsvm_short_long_simu_b.ipynb
+csv/
 
 # C extensions
 *.so
