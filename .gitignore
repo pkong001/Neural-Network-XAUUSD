@@ -7,7 +7,9 @@ vnn/
 LSTM_code.ipynb
 lsvm_short_long_simu_b.ipynb
 csv/
-
+sim_result.csv
+sim_result1.xlsx
+s.csv
 # C extensions
 *.so
 
